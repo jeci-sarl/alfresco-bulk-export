@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.alfresco.extencions.sbulkexport</groupId>
 	<artifactId>bulkexport</artifactId>
-	<version>0.0.5</version>
+	<version>0.0.6</version>
 	<packaging>amp</packaging>
 
 	<repositories>
@@ -58,19 +58,19 @@
 		<dependency>
 			<groupId>org.alfresco</groupId>
 			<artifactId>alfresco-core</artifactId>
-			<version>4.0.d</version>
+			<version>4.2.f</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.alfresco</groupId>
 			<artifactId>alfresco-repository</artifactId>
-			<version>4.0.d</version>
+			<version>4.2.f</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.alfresco</groupId>
 			<artifactId>alfresco-data-model</artifactId>
-			<version>4.0.d</version>
+			<version>4.2.f</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
@@ -82,7 +82,7 @@
 		<dependency>
 			<groupId>org.springframework.extensions.surf</groupId>
 			<artifactId>spring-webscripts</artifactId>
-			<version>1.0.0</version>
+			<version>1.2.0</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
